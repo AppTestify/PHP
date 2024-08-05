@@ -1,0 +1,8 @@
+Auth:
+  project_token: 8b0a60fc-a8f4-414a-bdad-88f94a6bd516
+  customer_token: 3cbcacd1-5fd0-47e2-be76-6000f79cd84c
+SAST:
+  language: semgrep
+SCA:
+  language: php
+Secret_Scan: true
